@@ -3,7 +3,7 @@ title:               Being a person
 tagline:             'Sometimes'
 description:         'Some ramblings of me'
 # url:                 http://lanyon.getpoole.com
-baseurl:             'https://mblenc.github.io/blog/'
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 plugins:
